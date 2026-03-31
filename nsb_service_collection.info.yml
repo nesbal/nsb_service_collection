@@ -1,5 +1,5 @@
 name: NSB Service Collection
 type: module
-description: A collection of reusable Drupal services for common backend tasks
+description: Provides a collection of custom Drupal services demonstrating reusable backend logic.
 package: Custom
 core_version_requirement: ^10 || ^11
