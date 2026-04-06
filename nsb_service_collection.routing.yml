@@ -1,0 +1,7 @@
+nsb_service_collection.demo:
+  path: '/nsb-services-demo'
+  defaults:
+    _controller: '\Drupal\nsb_service_collection\Controller\ServiceDemoController::demo'
+    _title: 'Service Demo'
+  requirements:
+    _permission: 'access content'

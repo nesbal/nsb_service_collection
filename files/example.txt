@@ -1,0 +1,8 @@
+Drupal is a powerful content management system.
+This example file is used to demonstrate file content analysis.
+
+Drupal provides flexibility and scalability.
+Services in Drupal help organize reusable logic.
+
+This file contains repeated words.
+Drupal Drupal Drupal service content.

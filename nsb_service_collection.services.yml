@@ -1,0 +1,8 @@
+services:
+  nsb_service_collection.score_evaluator:
+    class: Drupal\nsb_service_collection\Service\ScoreEvaluator
+  nsb_service_collection.file_content_analyzer:
+    class: Drupal\nsb_service_collection\Service\FileContentAnalyzer
+  nsb_service_collection.currency_converter:
+    class: Drupal\nsb_service_collection\Service\CurrencyConverter
+    arguments: ['@http_client']
